@@ -5711,3 +5711,11 @@ LogInit: Object subsystem initialized
 [2024.09.09-17.58.01:989][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.09.09-17.58.01:992][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
 [2024.09.09-17.58.02:024][668]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.09.09-18.01.00:329][756]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.09.09-18.01.00:329][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.09-18.01.00:334][756]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.09.09-18.01.00:334][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.09-18.01.01:107][800]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.09.09-18.01.01:107][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.09-18.01.01:114][800]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.09.09-18.01.01:114][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
